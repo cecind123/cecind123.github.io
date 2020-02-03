@@ -2,7 +2,7 @@
 
 Hello! Welcome to my GitHub.io repository. This is where I have a few projects housed. The link to each project is provided below:
 
-**Death Battle Project** 
+**Death Battle Project**  
 To read about the project: https://github.com/cecind123/cecind123.github.io/blob/master/DEATHBATTLE-master/README.md
 To view the site: https://cecind123.github.io/DEATHBATTLE-master/Web%20server%20files/DeathBattle.html
 
